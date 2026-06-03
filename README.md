@@ -122,16 +122,6 @@ contacts/                    ← collection
 
 ---
 
-## 📱 Screenshots
-
-| Contacts List | Add Contact | Edit Contact |
-|---|---|---|
-| ![list](screenshots/list.png) | ![add](screenshots/add.png) | ![edit](screenshots/edit.png) |
-
-> To add screenshots, create a `screenshots/` folder in the root directory and add your images.
-
----
-
 ## 🏗️ Architecture
 
 This app follows **MVVM architecture** with GetX:
