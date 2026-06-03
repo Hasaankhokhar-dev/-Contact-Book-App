@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364277189955",
+    "project_id": "todoapp-bee60",
+    "storage_bucket": "todoapp-bee60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364277189955:android:56136bfa7242fd9da7b3f6",
+        "android_client_info": {
+          "package_name": "com.example.contact_book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDokDGmW0g0dcaab4qa0frAjC2uDNREg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364277189955:android:a11a0a3b0a156a09a7b3f6",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDokDGmW0g0dcaab4qa0frAjC2uDNREg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
